@@ -1,4 +1,5 @@
 package latihan4_isp.good;
 
-public class Resizable {
+public interface Resizable {
+    void resize(int width, int height);
 }

@@ -1,4 +1,5 @@
 package latihan4_isp.good;
 
-public class Editable {
+public interface Editable {
+    void edit(String content);
 }

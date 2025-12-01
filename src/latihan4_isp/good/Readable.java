@@ -1,4 +1,5 @@
 package latihan4_isp.good;
 
-public class Readable {
+public interface Readable {
+    void read();
 }
